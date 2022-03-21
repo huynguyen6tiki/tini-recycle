@@ -3,14 +3,14 @@
 **1. Cài đặt**
     
 ```sh
-yarn add @yiyoya/tini-recycle
+yarn add tini-recycle
 Hoặc
-npm install --save @yiyoya/tini-recycle
+npm install --save tini-recycle
 ```
 
 **2. Basic Code**
 ```js
-import { $page } from "@yiyoya/tini-recycle";
+import { $page } from "tini-recycle";
 
 const authHook = () => [
     {
@@ -44,7 +44,7 @@ $page(
 **3. Các method**
 
 ```ts
-import { $page, $component, hooks } from "@yiyoya/tini-recycle"
+import { $page, $component, hooks } from "tini-recycle"
 $page(...hooks: Hook[])
 $component(...hooks: Hook[])
 
@@ -56,7 +56,7 @@ type Hook = Config | [Hook] | (config: Config) => Hook
 
 **Cài đặt**
 ```js
-import { hooks } from "@yiyoya/tini-recycle"
+import { hooks } from "tini-recycle"
 ```
 
 **1. hooks.hookLoadMore**

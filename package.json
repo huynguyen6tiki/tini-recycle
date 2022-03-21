@@ -1,0 +1,37 @@
+{
+  "name": "@yiyoya/tini-recycle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiyoya/tini-recycle.git"
+  },
+  "keywords": [
+    "tini",
+    "tini-recycle",
+    "tini",
+    "app",
+    "tiki",
+    "tiki",
+    "app"
+  ],
+  "author": "huynguyen6tiki <huy.nguyen6@tiki.vn>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiyoya/tini-recycle/issues"
+  },
+  "homepage": "https://github.com/yiyoya/tini-recycle#readme",
+  "dependencies": {
+    "query-string": "^7.1.0"
+  }
+}

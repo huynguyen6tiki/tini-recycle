@@ -1,5 +1,5 @@
 {
-  "name": "@yiyoya/tini-recycle",
+  "name": "tini-recycle",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yiyoya/tini-recycle.git"
+    "url": "git+https://github.com/huynguyen6tiki/tini-recycle"
   },
   "keywords": [
     "tini",
@@ -28,9 +28,9 @@
   "author": "huynguyen6tiki <huy.nguyen6@tiki.vn>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yiyoya/tini-recycle/issues"
+    "url": "https://github.com/huynguyen6tiki/tini-recycle/issues"
   },
-  "homepage": "https://github.com/yiyoya/tini-recycle#readme",
+  "homepage": "https://github.com/huynguyen6tiki/tini-recycle#readme",
   "dependencies": {
     "query-string": "^7.1.0"
   }
